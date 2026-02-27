@@ -1,0 +1,21 @@
+# Ignore OS and editor files
+.DS_Store
+Thumbs.db
+/*~
+
+# Java/Gradle/Maven
+target/
+build/
+*.class
+*.jar
+*.war
+
+# Go
+bin/
+
+# Node
+node_modules/
+
+# IDEs
+.idea/
+.vscode/
