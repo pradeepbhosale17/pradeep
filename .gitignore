@@ -19,3 +19,10 @@ node_modules/
 # IDEs
 .idea/
 .vscode/
+
+# docker-compose artifacts
+*.log
+*.pid
+
+# Postgres data volume (on shutdown)
+data/
